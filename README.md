@@ -1,22 +1,27 @@
-# Hello, I'm Balasankkar Aravindakshan 
+# Hello 👋 , I'm 🧑‍💻 Balasankkar Aravindakshan 
 <a href="www.linkedin.com/in/balasankkararavindhakshan"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I’m a cybersecurity enthusiast transitioning from a background in digital marketing into Cybersecurity. Over the past year I’ve been learning hands-on with TryHackMe, completing two certificates and dozens of labs that gave me practical experience in vulnerability discovery, basic web and network exploitation, and defensive fundamentals. My focus is on Threat intelligence, security monitoring, log analysis, and incident documentation. 
+Hi, I’m a cybersecurity learner transitioning from a background in digital marketing into the world of Threat intelligence, incidence response, ethical hacking and information security.
 
-My strengths:
-• Hands-on lab experience (TryHackMe): reconnaissance, CTF-style problem solving, basic pentesting workflows.
-• Investigation & communication: years of content work means I can translate technical findings into clear, actionable recommendations for technical and non-technical stakeholders.
-• Rapid learner & cross-functional collaborator
+For the past 5–6 months, I’ve been training hands-on through TryHackMe, earning two certificates and solving practical labs covering web exploitation, privilege escalation, and vulnerability assessment.
 
-If you’re hiring for entry-level security roles, mentoring early-career pentesters, or want to collaborate on CTFs / bug-bounty practice, let’s connect — I’m actively looking to move into cybersecurity roles where I can apply investigative rigor and hands-on lab experience.
+My earlier experience taught me how to investigate deeply, think critically, and communicate clearly — skills I now apply to cybersecurity research, threat analysis, and pentesting practice. I’m passionate about learning how systems break, how they can be defended, and how to explain complex technical issues in simple, actionable terms.
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+## 🎯 Objectives
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+- Build a strong foundation in both **offensive and defensive security**.  
+- Document all my **TryHackMe labs, CTF writeups, and mini-projects** here on GitHub.  
+- Develop skills in **penetration testing**, **vulnerability research**, and **automation (Python/Bash)**.  
+- Contribute to **open-source cybersecurity projects** and collaborative learning communities.  
+- Transition into an **entry-level cybersecurity role** where I can apply both technical and investigative strengths.
+
+## 🧠 Current Focus  
+- 🧩 Learning advanced **Linux privilege escalation** and **web app exploitation**  
+- ⚙️ Improving **Python scripting for automation**  
+- 🎯 Completing more **TryHackMe** challenges  
+- 🧾 Practicing **report writing** for professional pentesting workflows  
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -27,8 +32,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+## ⚙️ Tools
+
+- Linux
+- Burp Suite
+- Nmap
+- Wireshark
+- Gobuster
+- Python
 
 ### Network
 <div>
