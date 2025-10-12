@@ -39,7 +39,7 @@ My earlier experience taught me how to investigate deeply, think critically, and
 - Nmap
 - Wireshark
 - Gobuster
-- Python
+
 
 ### Network
 <div>
