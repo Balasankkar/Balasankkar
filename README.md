@@ -3,7 +3,7 @@
 
 Hi, I’m a cybersecurity learner transitioning from a background in digital marketing into the world of Threat intelligence, incidence response, ethical hacking and information security.
 
-For the past 5–6 months, I’ve been training hands-on through TryHackMe, earning two certificates and solving practical labs covering web exploitation, privilege escalation, and vulnerability assessment.
+For the past several months, I’ve been training hands-on through TryHackMe, earning two certificates and solving practical labs covering web exploitation, privilege escalation, and vulnerability assessment.
 
 My earlier experience taught me how to investigate deeply, think critically, and communicate clearly — skills I now apply to cybersecurity research, threat analysis, and pentesting practice. I’m passionate about learning how systems break, how they can be defended, and how to explain complex technical issues in simple, actionable terms.
 
