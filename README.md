@@ -1,5 +1,5 @@
 # Hello 👋 , I'm 🧑‍💻 Balasankkar Aravindakshan 
-<a href="www.linkedin.com/in/balasankkararavindhakshan"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)
 
 Hi, I’m a cybersecurity learner transitioning from a background in digital marketing into the world of Threat intelligence, incidence response, ethical hacking and information security.
 
