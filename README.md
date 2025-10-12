@@ -1,9 +1,14 @@
-# Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm Balasankkar Aravindakshan 
+<a href="www.linkedin.com/in/balasankkararavindhakshan"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+I’m a cybersecurity enthusiast transitioning from a background in digital marketing into Cybersecurity. Over the past year I’ve been learning hands-on with TryHackMe, completing two certificates and dozens of labs that gave me practical experience in vulnerability discovery, basic web and network exploitation, and defensive fundamentals. My focus is on Threat intelligence, security monitoring, log analysis, and incident documentation. 
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+My strengths:
+• Hands-on lab experience (TryHackMe): reconnaissance, CTF-style problem solving, basic pentesting workflows.
+• Investigation & communication: years of content work means I can translate technical findings into clear, actionable recommendations for technical and non-technical stakeholders.
+• Rapid learner & cross-functional collaborator
+
+If you’re hiring for entry-level security roles, mentoring early-career pentesters, or want to collaborate on CTFs / bug-bounty practice, let’s connect — I’m actively looking to move into cybersecurity roles where I can apply investigative rigor and hands-on lab experience.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
