@@ -67,9 +67,9 @@ My earlier experience taught me how to investigate deeply, think critically, and
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     
 [![TryHackMe Certificate](https://img.shields.io/badge/THM-Certificate-blue?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-WLY19XDH0Y.pdf)
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+
+[![TryHackMe Certificate](https://img.shields.io/badge/THM-Certificate-blue?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-5PG0CGTB64.pdf)
+
 </div>
 
 ## Projects
