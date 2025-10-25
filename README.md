@@ -1,8 +1,6 @@
 # Hello 👋 , I'm 🧑‍💻 Balasankkar Aravindakshan 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balasankkararavindhakshan) [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Balasankkar) 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Balasankkar.png" alt="Your Image Badge" />
-
 Hi, I’m a cybersecurity learner transitioning from a background in digital marketing into the world of Threat intelligence, incidence response, ethical hacking and information security.
 
 For the past year, I’ve been training hands-on through TryHackMe, earning two certificates and solving practical labs covering web exploitation, privilege escalation, and vulnerability assessment.
