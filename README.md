@@ -3,29 +3,44 @@
 
 I’m a cybersecurity enthusiast transitioning from a strong foundation in digital marketing into the security domain. Over the past year, I’ve built practical skills through hands-on learning and recently strengthened my fundamentals by earning the CompTIA Security+ certification.
 
-Security+ helped me develop a solid understanding of:
+Security+ helped me develop a solid understanding of :
+
 • Core security concepts such as access control, identity and authentication
+
 • Network security architecture, protocols, and secure configurations
+
 • Risk management, vulnerability management, and governance principles
+
 • Incident response processes, threat categories, and security monitoring workflows
 
 This foundational knowledge prepares me to contribute effectively in real-world security environments — especially in areas like security operations, threat analysis, and incident response.
 
-Hands-on SOC Experience (TryHackMe):
-Alongside Security+, I’ve completed two TryHackMe certificates and dozens of labs, including SOC simulator pathways that replicate real Security Operations Center workflows. These simulations helped me develop skills in:
+Hands-on SOC Experience (TryHackMe) :
+
+Alongside Security+, I’ve completed two TryHackMe certificates and dozens of labs, including SOC simulator pathways that replicate real Security Operations Center workflows. These simulations helped me develop skills in :
+
 • Log analysis (SIEM-focused)
+
 • Alert triage and prioritization
+
 • Recognizing malicious patterns in network and host activity
+
 • Documenting and reporting security incidents
+
 • Investigating phishing, malware behavior, and common attack paths
 
 This experience feels close to working in a real SOC environment and has shaped my interest in blue-team work, threat intelligence, and security monitoring.
 
-My strengths:
+My strengths :
+
 • Security+ knowledge backed by practical SOC and CTF-style lab work
+
 • Strong investigative mindset and analytical thinking
+
 • Ability to convert complex findings into clear, actionable reports
+
 • Fast learner, adaptable, and comfortable collaborating across teams
+
 • Solid foundation in both offensive and defensive fundamentals
 
 I’m actively exploring opportunities in SOC analysis, threat intelligence, security monitoring, and incident response, where I can apply real-world simulator experience, strong fundamentals, and a passion for continuous learning.
