@@ -33,7 +33,7 @@ These labs helped me understand real SOC operations and shaped my interest in **
 
 ## 🚀 Projects
 
-### 🔎 SOC Analyst Lab Series (TryHackMe)
+### 🔎 [SOC Analyst Lab Series (TryHackMe)](https://github.com/Balasankkar/SOC-Analyst-Lab-Series-TryHackMe-)
 Hands-on SOC simulations covering log analysis, alert triage, threat investigation, and reporting.  
 **Skills:** SIEM, incident response, malware analysis, phishing investigation  
 
