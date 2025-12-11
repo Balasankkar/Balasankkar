@@ -33,9 +33,15 @@ These labs helped me understand real SOC operations and shaped my interest in **
 
 ## 🚀 Projects
 
+### 🧩 [Splunk Full SIEM SOC Lab](https://github.com/Balasankkar/Splunk-Full-SIEM-SOC-Lab) 
+
+Developed a full-scale SOC environment using Splunk Enterprise to simulate real-world SIEM operations. Configured data ingestion from Windows, Linux, and web servers, and analyzed security events to build detection and monitoring workflows.
+
+Skills: SIEM configuration, log forwarding, threat detection, security monitoring
+
 ### 🔎 [SOC Analyst Lab Series (TryHackMe)](https://github.com/Balasankkar/SOC-Analyst-Lab-Series-TryHackMe)
 Hands-on SOC simulations covering log analysis, alert triage, threat investigation, and reporting.  
-**Skills:** SIEM, incident response, malware analysis, phishing investigation  
+**Skills:** SIEM, incident response, malware analysis, phishing investigation
 
 ### 🐍 Basic Malware Behaviour Analysis Lab
 Analyzed malware samples in controlled environments to understand execution flow and indicators of compromise.  
