@@ -1,5 +1,5 @@
-# Hello 👋 , I'm 🧑‍💻 Balasankkar Aravindakshan 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balasankkararavindhakshan) [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Balasankkar) 
+# Hello 👋 , I'm 🧑‍💻 Balasankar Aravindakshan 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balasankararavindhakshan) [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Balasankkar) 
 
 I'm actively building my cybersecurity skill set through hands-on learning, SOC-style labs, and continuous practice. Over the past year, I’ve strengthened my fundamentals with the CompTIA Security+ certification and applied them through practical exercises on TryHackMe.
 
