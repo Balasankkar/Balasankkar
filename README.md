@@ -55,7 +55,7 @@ Built a mock workflow covering scanning, prioritizing, and documenting vulnerabi
 Inspected packet captures to identify anomalies, suspicious traffic patterns, and potential attack behavior.  
 **Skills:** Wireshark, network forensics, protocol analysis  
 
-### ⚔️ Mini Offensive Labs (CTF-Style Challenges)
+### ⚔️ [Mini Offensive Labs (CTF-Style Challenges)](https://github.com/Balasankkar/portswigger-labs-authentication-vulnerability-writeups)
 Completed small-scale offensive exercises to understand attacker methodology and improve defensive thinking.  
 **Skills:** enumeration, privilege escalation, threat emulation
 
